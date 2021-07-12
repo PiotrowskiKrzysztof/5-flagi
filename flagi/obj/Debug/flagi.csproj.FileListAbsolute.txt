@@ -1,0 +1,14 @@
+C:\Users\Krzysztof\source\repos\flagi\flagi\bin\Debug\flagi.exe.config
+C:\Users\Krzysztof\source\repos\flagi\flagi\bin\Debug\flagi.exe
+C:\Users\Krzysztof\source\repos\flagi\flagi\bin\Debug\flagi.pdb
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi.g.resources
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi.exe
+C:\Users\Krzysztof\source\repos\flagi\flagi\obj\Debug\flagi.pdb
